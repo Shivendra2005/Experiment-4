@@ -2,7 +2,7 @@
 
 Aim -> To study and implement C++ Bitwise Operators.
 
-Theory -> Bitwise Operaotors in C++ are used to perform bit-level operations on the operands.
+Theory -> Bitwise Operators are the operators that are used to perform operations on the bit level on the integers. While performing this operation integers are considered as sequences of binary digits.
 Its symbols and functions are as follows:
 1. & -> Binary AND
 2. | -> Binary OR
