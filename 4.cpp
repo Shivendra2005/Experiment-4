@@ -1,5 +1,5 @@
-// NAME - SHLOKA PATEL  
-// PRN - 23070123120  
+// NAME - Shivendra Dwivedi
+// PRN - 23070123122
 // EXPERIMENT - 4   
 #include<iostream> 
 using namespace std; 
